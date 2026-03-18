@@ -1,4 +1,4 @@
-Joint project between Anthony and Connor for creating and testing the Event Decoder for S26-23
+This is a joint project between Anthony and Connor for creating and testing the Event Decoder for S26-23
 
 Purpose:
 To consolidate event decoder files into one space so that both contributors have access to the most current versions for each.
